@@ -1,4 +1,4 @@
-# Lab: Python Flask Behavior Driven Development
+# Lab: Python Flask BDD with CouchDB
 
 [![Build Status](https://github.com/nyu-devops/lab-flask-bdd/actions/workflows/tdd-tests.yml/badge.svg)](https://github.com/nyu-devops/lab-flask-bdd/actions)
 [![Build Status](https://github.com/nyu-devops/lab-flask-bdd/actions/workflows/bdd-tests.yml/badge.svg)](https://github.com/nyu-devops/lab-flask-bdd/actions)
